@@ -3,7 +3,7 @@
 # Azuka Daniel Ifeanyichukwu - Software Engineer
 
 ## 💫 About Me:
-👋 Hi there, I'm Azuka Ifeanyichukwu , a passionate Software Engineer with 2+ years of experience in designing and building scalable web applications. I have experience working with a variety of web technologies, including React, TypeScript, Next.js, Three.js, and Tailwind. I'm passionate about building high-quality, user-friendly web applications that solve real-world problems.👨‍💻
+👋 Hi there, I'm Ifeanyichukwu , a passionate Software Engineer with 2+ years of experience in designing and building scalable web applications. I have experience working with a variety of  technologies, including C#, .NET, Java, Spring Boot React, TypeScript, Next.js and Angular. I'm passionate about building high-quality, user-friendly web applications that solve real-world problems.👨‍💻
 
 
 ## 🌐 Socials:
